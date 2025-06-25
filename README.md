@@ -555,7 +555,7 @@ SOFTWARE.
 ## 📞 Support
 
 ### Getting Help
-- **📧 Email**: support@meetingfatiguedetector.com
+- **📧 Email**: ahmadsakib263@gmail.com
 - **💬 Discussions**: GitHub Discussions tab
 - **🐛 Bug Reports**: GitHub Issues tab
 - **📖 Documentation**: `/docs` directory
